@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Poppins';
-    src: url(/fonts/Poppins-Regular.ttf);
+    src: url(fontsшьпPoppins-Regular.ttf);
     font-weight: 400;
     font-display: swap;
 }
@@ -196,7 +196,7 @@ body {
 .project {    position: relative;
     height: 600px;
 
-    background-image: url('/img/IMAGE (2).svg');
+    background-image: url('img/IMAGE (2).svg');
     background-size: cover;
     background-position: center;
 }
@@ -294,7 +294,7 @@ body {
 .project2 {
     position: relative;
     height: 600px;
-    background-image: url('/img/IMAGE (5).svg');
+    background-image: url('img/IMAGE (5).svg');
     background-size: cover;
     background-position: center;
 }
@@ -360,7 +360,7 @@ body {
     
     position: relative;
     height: 600px;
-    background-image: url('/img/IMAGE\ \(10\).svg');
+    background-image: url('img/IMAGE\ \(10\).svg');
     background-size: cover;
     background-position: center;
 }
